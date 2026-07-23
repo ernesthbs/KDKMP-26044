@@ -1,0 +1,6 @@
+{
+  "name": "KDKMP Company Profile & Coffee Brand Center",
+  "description": "Company Profile, Brand Guidelines, Product Catalog, and Export Articles of Koperasi Desa Merah Putih (KDKMP) with interactive Google Docs exporter integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
